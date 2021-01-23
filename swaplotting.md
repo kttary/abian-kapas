@@ -20,7 +20,7 @@ Apabila ketiga hal tersebut telah terpenuhi, maka mulai masuk ke menu swaplottin
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-063030_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-063030_Abian Kapas.jpg)
 
 
 
@@ -28,7 +28,7 @@ Dibagian kanan bawah akan muncul 2 lingkaran biru. Lingkaran paling bawah diguna
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-063039_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-063039_Abian Kapas.jpg)
 
 
 
@@ -36,7 +36,7 @@ Klik sudah bersertipikat, kemudian pilih alamat email yang dihubungi apabila kam
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-063142_Google Play services.jpg)
+![](./media/Screenshot_20210123-063142_Google Play services.jpg)
 
 
 
@@ -44,7 +44,7 @@ Setelah memilih alamat email, lengkapi isian berupa nama pemilik bidang tanah da
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-072210_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-072210_Abian Kapas.jpg)
 
 
 
@@ -52,7 +52,7 @@ Jika sudah selesai mengisi, tekan tombol tekan kode akses sehingga tombol terseb
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-063241_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-063241_Abian Kapas.jpg)
 
 
 
@@ -60,7 +60,7 @@ Selanjutnya akan muncul isian sertipikat. Pilih jenis hak yang bersesuaian denga
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-063301_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-063301_Abian Kapas.jpg)
 
 
 
@@ -68,7 +68,7 @@ Apabila sudah isian anda benar, tekan tombol next dan isi penjelasan singkat. Te
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-063816_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-063816_Abian Kapas.jpg)
 
 
 

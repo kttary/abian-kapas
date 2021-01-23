@@ -1,6 +1,6 @@
 # APLIKASI ABIAN KAPAS
 
-## Pengenalan
+
 
 Abian Kapas adalah aplikasi yang digunakan sebagai aplikasi bantuan informasi di Kantor Pertanahan Kota Denpasar. Nama abian kapas diambil dari salah satu tempat di kota Denpasar dimana pusat kebudayaan yang sangat ironik dibangun yaitu Pusat Kesenian Werdhi Budaya (Werdhi Budaya Art Centre). Beberapa fitur pada aplikasi ini antara lain:
 
@@ -16,4 +16,4 @@ Abian Kapas adalah aplikasi yang digunakan sebagai aplikasi bantuan informasi di
 
 Berikut adalah tangkapan layar dari menu utama aplikasi abian kapas
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-062852_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-062852_Abian Kapas.jpg)

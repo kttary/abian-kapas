@@ -6,7 +6,7 @@ Beberapa berkas layanan di tidak dapat diselesaikan dalam sehari. Untuk mengetah
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-063846_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-063846_Abian Kapas.jpg)
 
 
 
@@ -14,4 +14,4 @@ Informasi berkas akan ditampilkan pada layar ponsel anda. Untuk memperoleh infor
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-063909_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-063909_Abian Kapas.jpg)

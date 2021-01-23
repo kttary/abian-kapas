@@ -6,4 +6,4 @@ Menu ini merupakan pintasan untuk membuka informasi terkini mengenai kegiatan, p
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-064440_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-064440_Abian Kapas.jpg)

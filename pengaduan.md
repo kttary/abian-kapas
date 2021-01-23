@@ -6,7 +6,7 @@ Apabila anda mengetahui ada penyimpangan dalam pelayanan Kantor Pertanahan Kota 
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-094018_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-094018_Abian Kapas.jpg)
 
 
 
@@ -14,7 +14,7 @@ Tombol next dibagian bawah akan muncul. Klik tombol ini untuk mengisi pengaduan 
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-064016_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-064016_Abian Kapas.jpg)
 
 
 
@@ -22,7 +22,7 @@ Pengaduan harus memenuhi unsu 4W (What: peristiwa apa yang diadukan, Who: siapa 
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-064134_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-064134_Abian Kapas.jpg)
 
 
 
@@ -30,7 +30,7 @@ Setelah itu menigs jam dan menit terjadinya peristiwa. Apabila peristiwa terjadi
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-064145_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-064145_Abian Kapas.jpg)
 
 
 
@@ -38,4 +38,4 @@ Apabila isian ada sudah lengkap, tekan tombol selesai. Kami akan langsung meneri
 
 
 
-![](/Users/iketut/Documents/dokumentasi/abiankapas/media/Screenshot_20210123-064241_Abian Kapas.jpg)
+![](./media/Screenshot_20210123-064241_Abian Kapas.jpg)
