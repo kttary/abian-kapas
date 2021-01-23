@@ -1,0 +1,13 @@
+site_name: Abian Kapas
+
+nav:
+ - Beranda: index.md
+ - Pnformasi Standar Prosedur dan Operasi Pelayanan:  spopp.md
+ - Swaplotting Bidang Tanah Terdaftar Maupun Belum Terdaftar: swaplotting.md
+ - Informasi Berkas Permohonan: infoberkas.md
+ - Verifikasi Surat Korespondensi: verifikasi.md
+ - Pendaftaran Antrean: ngantre.md
+ - Pengaduan Masyarakat: sinkronisasi.md
+ - Situs Kantor Pertanahan Kota Denpasar: website.md
+copyright: Kantor Pertanahan Kota Denpasar
+theme: readthedocs
